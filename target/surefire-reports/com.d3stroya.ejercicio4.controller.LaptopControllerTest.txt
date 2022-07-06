@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.d3stroya.ejercicio4.controller.LaptopControllerTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.484 s - in com.d3stroya.ejercicio4.controller.LaptopControllerTest
